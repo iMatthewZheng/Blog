@@ -491,7 +491,6 @@ header label {
   flex-direction: row;
   justify-content: center;
   list-style: none;
-  white-space: nowrap;
   width: 100%;
   padding-top: 2em;
 }
@@ -618,7 +617,6 @@ header label {
   display: inline-block;
   text-decoration: none;
   overflow: hidden;
-  white-space: nowrap;
 }
 .archive-item-link:hover {
   color: #2d96bd;
