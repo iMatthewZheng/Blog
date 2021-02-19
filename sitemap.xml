@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.inssun.tech/20210205/014600/2021020701.html</loc>
+    <loc>https://blog.inssun.tech/20210205/014600/2021020501.html</loc>
     
-    <lastmod>2021-02-09</lastmod>
+    <lastmod>2021-02-19</lastmod>
     
   </url>
   
@@ -32,7 +32,7 @@
 
   <url>
     <loc>https://blog.inssun.tech/</loc>
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -40,28 +40,28 @@
   
   <url>
     <loc>https://blog.inssun.tech/tags/%E9%87%91%E5%AD%97%E5%A1%94/</loc>
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.inssun.tech/tags/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.inssun.tech/tags/%E5%BB%BA%E7%AD%91/</loc>
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.inssun.tech/tags/%E8%80%83%E5%8F%A4/</loc>
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -70,14 +70,14 @@
   
   <url>
     <loc>https://blog.inssun.tech/categories/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.inssun.tech/categories/%E5%8E%86%E5%8F%B2/%E7%A4%BE%E4%BC%9A%E7%83%AD%E7%82%B9/</loc>
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
